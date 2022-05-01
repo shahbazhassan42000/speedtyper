@@ -40,7 +40,6 @@ header{
     gap: 10px;
 }
 .game_title{
-
     font-size: 1.5rem;
     background: #243043;
     font-weight: bold;
@@ -65,5 +64,7 @@ header{
 
 /************************************** MOBILE VIEW *****************************************/
 @media only screen and (max-width: 600px) {
-
+    .game_title{
+        padding: 7px 20px;
+    }
 }
