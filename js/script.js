@@ -5,7 +5,7 @@ window.addEventListener("load", function () {
         "aorta", "apathy", "apprehensive", "aqueous", "articulate", "arduous", "assonance", "attrition", "autonomy",
         "auspicious", "avarice", "aversion", "awry", "awe", "axiom", "azure", "bane", "banal", "benevolent",
         "belligerent", "benign", "bias", "bigot", "boisterous", "bourgeois", "bureaucracy", "burden", "capricious",
-        "cacophony", "capitalism", "censure", "cessation", "a stopping", "circumspect", "circumvent", "cite",
+        "cacophony", "capitalism", "censure", "cessation", "stopping", "circumspect", "circumvent", "cite",
         "connotation", "communism", "condescending", "contemporary", "cunning", "cursory", "daunting", "data", "demeanor",
         "dearth", "disdain", "diction", "discombobulate", "dogma", "docile", "dubious", "duplicity"];
     /** default easy level */
